@@ -38,7 +38,3 @@ The pipeline follows a three-layer model:
 ## 👨‍💻 Notes
 
 This project was initially inspired by a tutorial, but fully built and adapted using my own approach to reinforce learning and build practical skills in real-world data warehousing design.
-
-
-
-[Youssef Tarek](https://github.com/yourusername)
